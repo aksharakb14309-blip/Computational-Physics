@@ -24,6 +24,7 @@ plt.figure()
 plt.plot(X,Y)
 plt.xlabel("Horizontal displacement")
 plt.ylabel("Vertical displacement")
+plt.title("Projectile motion")
 plt.grid()
 plt.show()
     
